@@ -1,0 +1,17 @@
+{
+    "$schema": "node_modules/wrangler/config-schema.json",
+    "name": "www",
+    "compatibility_date": "2026-05-01",
+
+    "build": {
+        "command": "npm run build"
+    },
+    
+    "observability": {
+        "enabled": true
+    },
+    
+    "assets": {
+        "directory": "./dist"
+    }
+}

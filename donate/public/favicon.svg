@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="678.76215" height="629.85425" id="svg2">
+  <defs id="defs4">
+    <linearGradient id="linearGradient4596">
+      <stop id="stop4598" style="stop-color:#f9f9f9;stop-opacity:1" offset="0"/>
+      <stop id="stop4600" style="stop-color:#f9f9f9;stop-opacity:0" offset="1"/>
+    </linearGradient>
+    <filter color-interpolation-filters="sRGB" id="filter4133">
+      <feGaussianBlur id="feGaussianBlur4135" stdDeviation="2.8991141"/>
+    </filter>
+    <clipPath id="clipPath4592">
+      <path d="m 2008.2595,781.72094 c 0,0 11.7256,20.59915 25.6697,25.98663 13.944,5.38747 39.6137,5.70438 54.8254,5.07056 15.2117,-0.63382 -12.0426,-63.06512 -12.0426,-63.06512 l -46.2688,-10.77494 z" id="path4594" style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+    </clipPath>
+    <linearGradient x1="2088.4377" y1="746.22705" x2="2024.105" y2="821.33472" id="linearGradient4602" xlink:href="#linearGradient4596" gradientUnits="userSpaceOnUse"/>
+    <filter color-interpolation-filters="sRGB" id="filter4711">
+      <feGaussianBlur id="feGaussianBlur4713" stdDeviation="7.7325439"/>
+    </filter>
+    <filter color-interpolation-filters="sRGB" id="filter4715">
+      <feGaussianBlur id="feGaussianBlur4717" stdDeviation="2.3057101"/>
+    </filter>
+    <filter color-interpolation-filters="sRGB" id="filter4719">
+      <feGaussianBlur id="feGaussianBlur4721" stdDeviation="7.7325439"/>
+    </filter>
+  </defs>
+  <g transform="translate(-21.196152,-8.748919)" id="layer1">
+    <g id="text4137" style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Freestyle Script;-inkscape-font-specification:Freestyle Script"/>
+    <g transform="matrix(1.2089671,0,0,1.2089671,-2100.322,487.83947)" id="g4769">
+      <path d="m 2041.9567,-356.20919 c -2.6404,-0.0483 -5.2677,1.72612 -7.2991,5.39222 -82.8216,132.85461 -108.2928,230.52564 -225.6673,332.633902 -8.7957,2.54358 -29.716,23.07851 17.2473,40.01996 58.8204,39.64653 257.5726,49.363122 420.9737,59.849072 9.4853,0.61228 34.7978,14.083617 28.4025,2.507547 l -97.5104,-211.647541 -128.6909,-223.26695 c -2.1426,-3.56458 -4.8153,-5.43999 -7.4558,-5.48828 z m -1.7543,87.63717 c 3.3503,-0.0345 6.0929,3.90567 7.4871,6.69812 l 89.9708,156.05621 85.7731,148.843302 c 5.6393,8.68293 -0.4129,11.27108 -6.328,10.34591 -117.4148,-7.51781 -233.5596,7.74384 -343.3661,-58.12228 -8.8177,-4.66726 -8.1906,-10.01989 -6.4532,-12.70151 57.1424,-48.09779 107.9689,-151.957942 166.4003,-245.677482 2.2645,-3.96599 4.5058,-5.42151 6.516,-5.44219 z" transform="matrix(1.0450718,0,0,1.0496845,-103.44846,-2.8924428)" id="path4637" style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4719)"/>
+      <g transform="matrix(3.153378,0,0,3.153378,-4486.1199,-2720.8149)" id="g4574">
+        <path d="m 2049.2995,815.73664 c -1.5423,0.2094 -1.5,8.5 -2.25,12.75 -0.7217,-2.2521 -6.0725,-3.97159 -4.0163,-0.38518 1.2056,2.03403 6.643,4.55535 2.5081,6.07423 -3.4158,1.58333 -3.5628,6.05722 -2.241,9.1 1.3663,3.36161 1.7565,7.08196 1.7349,10.68388 -1.0601,3.30288 -2.3631,6.57154 -3.4819,9.88128 -0.8554,2.41318 -1.7901,5.85632 -2.6456,8.2695 3.9935,0.46274 4.1475,0.45012 8.0626,0.59595 1.9404,-5.48504 5.0579,-11.82583 6.1739,-17.56723 0.4115,-3.97687 -0.5888,-7.89965 -0.9385,-11.83993 2.3125,3.28125 6.6978,8.01908 6.9375,9.84375 0.5058,2.3884 -5.6127,13.34656 -8.3002,19.54448 4.349,-0.31691 3.3899,0.31691 7.8974,-0.15845 2.8022,-6.73031 8.4947,-15.99385 8.7553,-19.60399 0.3425,-1.75709 -3.4046,-7.32371 -5.415,-10.31329 6.7917,5.15623 13.5833,10.31252 20.375,15.46875 -1.4027,0.9904 -1.7924,4.62769 -3.4237,4.09163 -1.8598,-0.61116 -7.4133,-0.66945 -6.8001,2.38039 0.7187,3.57395 -9.7237,2.6159 -8.8074,6.96548 1.0464,3.55516 4.5819,1.74661 7.8674,1.93585 2.4054,0.0602 4.7315,-3.44747 7.2064,-0.97725 2.7574,2.61319 4.9372,-2.75895 7.6775,0.1869 2.6025,1.84305 4.1812,-2.70539 7.3545,-1.12009 3.4997,0.38776 7.7146,-1.18334 10.5831,1.51931 1.9958,0.38352 8.1727,0.2602 6.5243,-1.47684 -1.5029,-5.17073 -6.2858,-1.69495 -7.9972,-4.89605 -0.7495,-2.70107 -1.7927,-4.82077 -3.2429,-7.12176 -3.2567,-5.12285 -5.5444,-1.96807 -6.7501,-5.06455 -1.0137,-4.01253 -4.2094,0.86807 -6.3857,1.42469 -1.2551,0.0387 -2.2635,-1.38453 -3.4155,-1.95669 -3.9427,-2.74492 -7.8854,-5.48985 -11.8281,-8.23477 -0.2471,-2.87713 -2.5645,-6.3261 0.3368,-8.65593 2.1716,-3.03391 7.0608,-6.47995 3.8749,-10.49108 -2.2527,-3.11742 -4.6477,-6.10922 -6.5808,-9.43765 -1.4835,-1.9413 -4.1392,-0.9937 -6.2295,-1.25915 -4.3733,-0.0521 -12.1535,-1.21332 -13.1201,-0.15619 z m 3.6764,5.1342 c 1.5364,0.24801 8.2062,1.45439 4.1645,3.49736 -1.5536,0.83186 -5.2666,4.53863 -5.3136,3.36453 0.6472,-1.75911 0.502,-5.10279 1.1491,-6.86189 z m 11.5736,12.9908 c -0.2907,2.44584 0.2324,6.75907 -0.5696,8.03325 -1.8568,-1.55795 -7.5323,-3.9069 -3.0093,-5.63507 1.193,-0.79939 2.3859,-1.59878 3.5789,-2.39818 z" id="path4566" style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+        <path d="m 2088.7365,813.84498 c -0.5428,4.32555 -3.6684,8.79742 -8.3836,8.87446 -4.4338,0.22564 -10.0044,-2.34644 -10.0555,-7.41331 -0.1167,-4.17983 1.9735,-9.37975 6.3896,-10.46964 6.1289,-0.74218 8.107,0.42579 10.3151,3.8747 1.0373,1.51202 1.5399,3.32738 1.7344,5.13379 z" id="path4568" style="fill:#000000;fill-opacity:1;stroke:none"/>
+      </g>
+      <path d="m 2041.9567,-380.20919 c -2.6404,-0.0483 -5.2677,1.72612 -7.2991,5.39222 -94.2304,182.29259 -95.6164,210.24339 -210.4556,332.633902 -8.7957,2.54358 -29.716,23.07851 17.2473,40.0199598 58.8204,39.6465302 281.8006,62.8084802 445.2017,73.2944302 9.4853,0.61228 17.767,-2.94717 11.3717,-14.52324 -85.8262,-138.636622 -176.3379,-276.391102 -248.6102,-431.329062 -2.1426,-3.56458 -4.8153,-5.43999 -7.4558,-5.48828 z m -1.7543,87.63717 c 3.3503,-0.0345 6.0929,3.90567 7.4871,6.69812 64.4138,97.2626 124.8299,197.517626 175.7439,304.899512 5.6393,8.68293 -0.4129,11.27108 -6.328,10.34591 -117.4148,-7.51781 -233.5596,7.74384 -343.3661,-58.12228 -8.8177,-4.66726 -8.1906,-10.01989 -6.4532,-12.70151 60.2214,-41.939879 111.6398,-144.616132 166.4003,-245.677482 2.2645,-3.96599 4.5058,-5.42151 6.516,-5.44219 z" id="path4625" style="fill:#ff0000;fill-opacity:1;stroke:none"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>UNDER CONSTRUCTION</dc:title>
+        <dc:date>2010-07-31T21:17:34</dc:date>
+        <dc:description>UNDER CONSTRUCTION</dc:description>
+        <dc:source>http://openclipart.org/detail/75661/under-construction-by-inky2010</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>inky2010</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>CONSTRUCTION</rdf:li>
+            <rdf:li>FREE</rdf:li>
+            <rdf:li>INKY2010</rdf:li>
+            <rdf:li>UNDER CONSTRUCTION</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
