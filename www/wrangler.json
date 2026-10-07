@@ -7,5 +7,5 @@
         "enabled": true
     },
 
-    "main": "src/index.js"
+    "main": "src/worker.js"
 }
