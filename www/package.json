@@ -1,6 +1,14 @@
 {
-    "name": "donate",
+    "name": "stmcs-robotics",
     "description": "www",
+
+    "scripts": {
+        "build": "node build.js"
+    },
+
+    "dependencies": {
+        "photoswipe": "^5.0.0"
+    },
 
     "devDependencies": {
         "wrangler": "^4.0.0"
