@@ -11,11 +11,6 @@ export default {
             doubles: [Date.now()]
         });
 
-        return new Response(path + '\n' + ip);
-
-        // return Response.redirect(
-        //     'https://www.gofundme.com/f/support-st-modans-vex-robotics-teams',
-        //     302
-        // );
+        return Response.redirect('https://www.gofundme.com/f/support-st-modans-vex-robotics-teams', 302)
     }
 };
