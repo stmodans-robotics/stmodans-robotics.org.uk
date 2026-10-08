@@ -9,7 +9,7 @@
         {
             "binding": "d1_donations",
             "database_name": "d1_donations",
-            "database_id": "55545778-0734-41e3-9cf8-05568fca9d3f",
+            "database_id": "3814ad0c-84a2-428d-aaf7-78c87b2e2b57",
             "migrations_dir": "migrations"
         }
     ],
