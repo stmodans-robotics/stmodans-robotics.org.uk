@@ -8,10 +8,11 @@
     
     "main": "src/worker.js",
 
-    "analytics_engine_datasets": [
+    "d1_databases": [
         {
             "binding": "donations",
-            "dataset": "donations"
+            "database_name": "donations",
+            "database_id": "${D1_UUID}"
         }
     ]
 }

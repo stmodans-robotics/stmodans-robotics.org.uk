@@ -5,11 +5,13 @@ export default {
 
         console.info({ message: 'Donate hit for ' + path });
 
-        env.donations.writeDataPoint({
-            indexes: [path],
-            blobs: [ip],
-            doubles: [Date.now()]
-        });
+        await env.donations
+            .prepare(`
+                INSERT INTO visits (timestamp, path, ip)
+                VALUES (?, ?, ?)
+            `)
+            .bind(Date.now(), path, ip)
+            .run();
 
         return Response.redirect('https://www.gofundme.com/f/support-st-modans-vex-robotics-teams', 302)
     }
