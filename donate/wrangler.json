@@ -3,10 +3,6 @@
     "name": "donate",
     "compatibility_date": "2026-05-01",
 
-    "deploy": {
-        "command": "npm run deploy"
-    },
-
     "main": "src/worker.js",
 
     "d1_databases": [
