@@ -5,7 +5,7 @@ export default {
 
         console.info({ message: 'Donate hit for ' + path });
 
-        await env.donations
+        await env.d1_donations
             .prepare(`
                 INSERT INTO visits (timestamp, path, ip)
                 VALUES (?, ?, ?)

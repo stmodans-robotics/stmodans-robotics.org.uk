@@ -2,6 +2,10 @@
     "name": "donate",
     "description": "donate",
 
+    "scripts": {
+        "deploy": "wrangler d1 migrations apply donations --remote && wrangler deploy"
+    },
+
     "devDependencies": {
         "wrangler": "^4.0.0"
     },

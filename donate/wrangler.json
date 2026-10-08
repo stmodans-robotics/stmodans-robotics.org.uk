@@ -12,7 +12,8 @@
         {
             "binding": "donations",
             "database_name": "donations",
-            "database_id": "${D1_UUID}"
+            "database_id": "${D1_UUID}",
+            "migrations_dir": "migrations"
         }
     ]
 }
