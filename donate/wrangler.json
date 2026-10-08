@@ -7,8 +7,8 @@
 
     "d1_databases": [
         {
-            "binding": "donations",
-            "database_name": "donations",
+            "binding": "d1_donations",
+            "database_name": "d1_donations",
             "database_id": "55545778-0734-41e3-9cf8-05568fca9d3f",
             "migrations_dir": "migrations"
         }
