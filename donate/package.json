@@ -3,7 +3,7 @@
     "description": "donate",
 
     "scripts": {
-        "deploy": "wrangler d1 migrations apply donations --remote && wrangler deploy"
+        "deploy": "npx wrangler d1 migrations apply d1_donations --remote && npx wrangler deploy"
     },
 
     "devDependencies": {
