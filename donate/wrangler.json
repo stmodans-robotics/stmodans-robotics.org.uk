@@ -12,7 +12,7 @@
         {
             "binding": "donations",
             "database_name": "donations",
-            "database_id": "${D1_UUID}",
+            "database_id": "${d1_donations_UUID}",
             "migrations_dir": "migrations"
         }
     ]
