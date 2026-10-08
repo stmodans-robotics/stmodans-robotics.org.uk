@@ -3,10 +3,6 @@
     "name": "www",
     "compatibility_date": "2026-05-01",
 
-    "build": {
-        "command": "npm run build"
-    },
-
     "assets": {
         "directory": "./dist"
     },
