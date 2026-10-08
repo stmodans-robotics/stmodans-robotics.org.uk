@@ -1,6 +1,6 @@
 {
     "name": "donate",
-    "description": "donate",
+    "description": "stmodans-robotics donations",
 
     "scripts": {
         "deploy": "npx wrangler d1 migrations apply d1_donations --remote && npx wrangler deploy"

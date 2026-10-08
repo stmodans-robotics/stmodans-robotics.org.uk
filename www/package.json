@@ -1,6 +1,6 @@
 {
-    "name": "stmcs-robotics",
-    "description": "www",
+    "name": "www",
+    "description": "stmodans-robotics website",
 
     "scripts": {
         "build": "node build.js"
