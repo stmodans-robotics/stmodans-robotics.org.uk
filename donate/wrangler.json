@@ -3,18 +3,18 @@
     "name": "donate",
     "compatibility_date": "2026-05-01",
 
-    "observability": {
-        "enabled": true
-    },
-    
     "main": "src/worker.js",
 
     "d1_databases": [
         {
             "binding": "donations",
             "database_name": "donations",
-            "database_id": "${d1_donations_UUID}",
+            "database_id": "55545778-0734-41e3-9cf8-05568fca9d3f",
             "migrations_dir": "migrations"
         }
-    ]
+    ],
+
+    "observability": {
+        "enabled": true
+    }
 }
