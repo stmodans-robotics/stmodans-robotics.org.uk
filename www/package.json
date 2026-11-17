@@ -3,7 +3,7 @@
     "description": "stmodans-robotics website",
 
     "scripts": {
-        "build": "ls dist"
+        "build": "node build.js"
     },
 
     "dependencies": {
