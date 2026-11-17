@@ -1,9 +1,13 @@
 const fs = require('fs');
 const path = require('path');
 
-const srcDir = path.resolve(__dirname, 'src');
-const pubDir = path.resolve(__dirname, 'public');
-const destDir = path.resolve(__dirname, 'dist');
+const srcName = 'src';
+const destName = 'dist';
+const pubName = 'public';
+
+const srcDir = path.join(__dirname, srcName);
+const destDir = path.join(__dirname, destName);
+const pubDir = path.join(__dirname, pubName);
 
 
 function copyDir(src, dest) {
@@ -26,8 +30,12 @@ function copyDir(src, dest) {
 }
 
 
-fs.rmSync(destDir, { recursive: true, force: true });
-
-console.log(`Building: src → dist\n`);
+console.log(`Building: ${srcName} → ${destName}`);
 copyDir(srcDir, destDir);
+
+console.log();
+
+console.log(`Copying: ${pubName} → ${destName}`);
+copyDir(pubDir, destDir);
+
 console.log(`\nDone.\n`);
