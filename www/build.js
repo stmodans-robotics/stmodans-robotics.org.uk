@@ -25,11 +25,6 @@ function copyDir(src, dest) {
     }
 }
 
-// display the contents of the dist folder
-console.log(`Contents of ${path.relative(__dirname, destDir)}:`);
-for (const entry of fs.readdirSync(destDir, { withFileTypes: true })) {
-    console.log(`  ${entry.name}`);
-}
 
 fs.rmSync(destDir, { recursive: true, force: true });
 
